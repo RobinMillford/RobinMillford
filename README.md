@@ -76,11 +76,11 @@ passion: Building intelligent systems that solve real-world problems
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=RobinMillford&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RobinMillford&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RobinMillford&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RobinMillford&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -196,13 +196,6 @@ passion: Building intelligent systems that solve real-world problems
 <div align="center">
   <img src="https://raw.githubusercontent.com/RobinMillford/RobinMillford/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </div>
-
-> **Note:** Snake and Pacman animations require GitHub Actions to run first. The workflows run automatically every 6 hours, or you can manually trigger them:
-> 1. Go to the [Actions tab](https://github.com/RobinMillford/RobinMillford/actions)
-> 2. Select "Generate snake animation" or "Generate pacman animation"
-> 3. Click "Run workflow"
-> 
-> The animations will appear here once the workflows complete successfully.
 
 <br/>
 
