@@ -75,14 +75,6 @@ passion: Building intelligent systems that solve real-world problems
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobinMillford&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RobinMillford&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RobinMillford&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 <br/>
 
 ## 🛠️ Tech Stack
