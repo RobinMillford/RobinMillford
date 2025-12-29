@@ -1,11 +1,11 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Yamin%20Hossain&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Machine%20Learning%20%26%20AI%20Engineer%20|%20Building%20Intelligent%20Systems&amp;descAlignY=52&amp;descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yamin%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20%26%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Animated Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=%F0%9F%A4%96+LLM+%7C+NLP+%7C+Deep+Learning+%7C+RAG+Systems;%E2%9C%A8+Transforming+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A4%96+LLM+%7C+NLP+%7C+Deep+Learning+%7C+RAG+Systems;%E2%9C%A8+Transforming+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <!-- Profile Badges -->
