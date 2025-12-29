@@ -79,6 +79,12 @@ me = YaminHossain()
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RobinMillford&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobinMillford&theme=tokyonight" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobinMillford&theme=tokyonight" alt="Top Languages by Repo"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobinMillford&theme=tokyonight" alt="Top Languages by Commit"/>
