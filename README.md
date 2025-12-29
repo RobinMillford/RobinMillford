@@ -179,15 +179,17 @@ me = YaminHossain()
 
 ---
 
-## � Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/RobinMillford/RobinMillford/output/snake.svg" alt="Snake animation" />
-</p>
+</div>
 
 ---
 
-## �💼 Featured Projects
+## 💼 Featured Projects
+
+<div align="center">
 
 | 🤖 AI/ML Projects | 📊 Data Analytics |
 |:---:|:---:|
@@ -201,45 +203,47 @@ me = YaminHossain()
 | FastAPI Backend | Computer Vision |
 | AI Integration | Experimental ML |
 
-<p align="center">
-  <a href="https://github.com/RobinMillford?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repos-1F6FEB?style=for-the-badge" alt="Explore Repos"/>
-  </a>
-</p>
+<a href="https://github.com/RobinMillford?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_Explore_All_Repos-1F6FEB?style=for-the-badge" alt="Explore Repos"/>
+</a>
+
+</div>
 
 ---
 
 ## 🤝 Let's Collaborate!
 
+<div align="center">
+
 | 💬 Open to Work On | 📧 Let's Talk About |
-|:---|:---|
+|:---:|:---:|
 | 🤖 AI/ML Research Projects | 🤝 Freelance Opportunities |
 | 🔗 LLM Apps & RAG Systems | 🚀 Project Collaborations |
 | 🌐 Open Source Contributions | 💬 Tech Discussions |
 | 💡 Innovative Tech Solutions | 🎯 Consulting & Mentorship |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yamin-hossain-38a3b3263">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.yaminhossain.fun/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:issan.yamin@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/yamin-hossain-38a3b3263">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.yaminhossain.fun/">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:issan.yamin@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <b>⭐ From <a href="https://github.com/RobinMillford">Yamin Hossain</a> | Building the Future with AI 🚀</b>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=flat-square" alt="Made with love"/>
-</p>
+</div>
