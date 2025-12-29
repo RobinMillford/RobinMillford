@@ -150,7 +150,15 @@ me = YaminHossain()
 
 ---
 
-## 💼 Featured Projects
+## � Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RobinMillford/RobinMillford/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## �💼 Featured Projects
 
 | 🤖 AI/ML Projects | 📊 Data Analytics |
 |:---:|:---:|
