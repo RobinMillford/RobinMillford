@@ -79,21 +79,13 @@ me = YaminHossain()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RobinMillford&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobinMillford&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobinMillford&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobinMillford&theme=tokyonight" alt="Top Languages by Commit"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobinMillford&theme=tokyonight" alt="Stats" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobinMillford&theme=tokyonight" alt="Top Languages by Repo" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobinMillford&theme=tokyonight" alt="Top Languages by Commit" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobinMillford&theme=tokyonight" alt="Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobinMillford&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobinMillford&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </p>
 
 ---
