@@ -8,11 +8,11 @@ I build AI-enabled applications and data tools — retrieval systems, multi-agen
 
 <br>
 
-<a href="https://www.yaminhossain.fun/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/yamin-hossain-38a3b3263"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
-<a href="https://www.kaggle.com/yaminh"><img src="https://img.shields.io/badge/Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle profile"></a>
-<a href="https://huggingface.co/RobinMillford"><img src="https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face profile"></a>
-<a href="mailto:issan.yamin@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Yamin Hossain"></a>
+<a href="https://www.yaminhossain.fun/"><img src="assets/badges/portfolio.svg" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/yamin-hossain-38a3b3263"><img src="assets/badges/linkedin.svg" alt="LinkedIn profile"></a>
+<a href="https://www.kaggle.com/yaminh"><img src="assets/badges/kaggle.svg" alt="Kaggle profile"></a>
+<a href="https://huggingface.co/RobinMillford"><img src="assets/badges/huggingface.svg" alt="Hugging Face profile"></a>
+<a href="mailto:issan.yamin@gmail.com"><img src="assets/badges/email.svg" alt="Email Yamin Hossain"></a>
 
 </div>
 
@@ -28,7 +28,7 @@ I build AI-enabled applications and data tools — retrieval systems, multi-agen
 
 Market analysis for stocks, forex, and crypto, run through a parallel agent pipeline. One low-temperature supervisor call returns a plan; LangGraph then fans the chosen specialists out simultaneously, so a three-agent read costs the same three model hops as a single-agent one. *Generated analysis, not investment advice.*
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c?style=flat-square&logo=langchain&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-f55036?style=flat-square)
+![LangGraph](assets/badges/langgraph.svg) ![Next.js](assets/badges/next-js.svg) ![TypeScript](assets/badges/typescript.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Groq](assets/badges/groq.svg)
 
 **[Source](https://github.com/RobinMillford/Ai-Finance)** · **[Live app](https://financeai-ai.duckdns.org/)**
 
@@ -40,7 +40,7 @@ Market analysis for stocks, forex, and crypto, run through a parallel agent pipe
 
 A film and television library — watchlist, diary, episode tracking, social feed — built around CineBot, an assistant that routes requests without spending an LLM call, so ordinary questions cost no extra inference. Conversation state is checkpointed to SQLite in WAL mode, which keeps memory intact across restarts and redeploys.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Flask](assets/badges/flask.svg) ![LangGraph](assets/badges/langgraph.svg) ![OpenAI](assets/badges/openai.svg) ![PostgreSQL](assets/badges/postgresql.svg)
 
 **[Source](https://github.com/RobinMillford/FrameIQ)** · **[Live app](https://frameiq.studio/)**
 
@@ -54,7 +54,7 @@ A film and television library — watchlist, diary, episode tracking, social fee
 
 Retrieval over documents, figures, and video transcripts, grounded with BM25 keyword scoring running beside sentence-transformer embeddings rather than trusting vectors alone. Figures pass through a vision model first, and it is that description — not the raw image — that gets embedded and searched. Answers carry source references.
 
-![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-8a2be2?style=flat-square) ![BM25](https://img.shields.io/badge/BM25-5a6472?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](assets/badges/streamlit.svg) ![ChromaDB](assets/badges/chromadb.svg) ![BM25](assets/badges/bm25.svg) ![LangGraph](assets/badges/langgraph.svg)
 
 **[Source](https://github.com/RobinMillford/Cortex-AI-Multi-Model-Insights-Hub)**
 
@@ -64,7 +64,7 @@ Retrieval over documents, figures, and video transcripts, grounded with BM25 key
 
 A local-first document workspace with a Go/Gin backend. Weaviate runs hybrid BM25-and-vector retrieval, a Qwen3 cross-encoder reranks the top candidates, and answers cite a file and page. Ingestion and reranking stay on your own machine; generation can go local or to any cloud provider.
 
-![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-00ab6c?style=flat-square) ![LocalAI](https://img.shields.io/badge/LocalAI-f59e0b?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Go](assets/badges/go.svg) ![Next.js](assets/badges/next-js.svg) ![Weaviate](assets/badges/weaviate.svg) ![LocalAI](assets/badges/localai.svg) ![Docker](assets/badges/docker.svg)
 
 **[Source](https://github.com/RobinMillford/GopherNotebook)**
 
@@ -76,7 +76,7 @@ A local-first document workspace with a Go/Gin backend. Weaviate runs hybrid BM2
 
 Two vision problems kept deliberately apart: is this artwork AI-made or human-made, and which style is it? Authenticity runs a fine-tuned MobileNetV2 with Grad-CAM heatmaps marking the regions behind the call, while style is soft-voted across EfficientNetV2-B2 and ConvNeXt-Small, with each model's confidence shown separately rather than hidden behind the ensemble.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) ![Grad-CAM](https://img.shields.io/badge/Grad-CAM-e2574c?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](assets/badges/tensorflow.svg) ![Grad-CAM](assets/badges/grad-cam.svg) ![Streamlit](assets/badges/streamlit.svg) ![OpenCV](assets/badges/opencv.svg)
 
 **[Source](https://github.com/RobinMillford/Art-Intelligence-Hub)** · **[Training notebook](https://www.kaggle.com/code/yaminh/ai-vs-real-project)**
 
@@ -90,7 +90,7 @@ Two vision problems kept deliberately apart: is this artwork AI-made or human-ma
 
 Ten linked views over a single fashion supply-chain file, built to make trade-offs legible rather than to fill a dashboard. The one worth opening first is price against manufacturing cost per product type, which turns a revenue total into an actual margin — the gap between what a garment sells for and what it cost to make.
 
-![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-f00000?style=flat-square&logo=duckdb&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3f4f75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](assets/badges/streamlit.svg) ![DuckDB](assets/badges/duckdb.svg) ![Plotly](assets/badges/plotly.svg) ![Pandas](assets/badges/pandas.svg)
 
 **[Source](https://github.com/RobinMillford/Analytics_for_Fashion_Supply_Management)**
 
@@ -102,7 +102,7 @@ Ten linked views over a single fashion supply-chain file, built to make trade-of
 
 A 42-node research agent that lives inside Telegram. A Switch fans each query into parallel web-research and dataset-hunting branches, three different models handle refinement, long-context extraction, and synthesis respectively, and results are logged to Supabase before coming back out as a file. It imports as JSON; the credentials are yours to supply.
 
-![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white) ![Tavily](https://img.shields.io/badge/Tavily-ff4d00?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square)
+![n8n](assets/badges/n8n.svg) ![Supabase](assets/badges/supabase.svg) ![Tavily](assets/badges/tavily.svg) ![LangChain](assets/badges/langchain.svg)
 
 **[Source](https://github.com/RobinMillford/My_n8n_workflows)**
 
@@ -115,16 +115,16 @@ A 42-node research agent that lives inside Telegram. A Switch fans each query in
 Drawn from what the projects above actually run on.
 
 **AI & retrieval**
-![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c?style=flat-square&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-f55036?style=flat-square&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangGraph](assets/badges/langgraph.svg) ![LangChain](assets/badges/langchain.svg) ![OpenAI](assets/badges/openai.svg) ![Groq](assets/badges/groq.svg) ![HuggingFace](assets/badges/huggingface.svg) ![TensorFlow](assets/badges/tensorflow.svg)
 
 **Languages & backend**
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](assets/badges/python.svg) ![Go](assets/badges/go.svg) ![TypeScript](assets/badges/typescript.svg) ![Flask](assets/badges/flask.svg) ![PostgreSQL](assets/badges/postgresql.svg)
 
 **Data & visualization**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-f00000?style=flat-square&logo=duckdb&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3f4f75?style=flat-square&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](assets/badges/pandas.svg) ![DuckDB](assets/badges/duckdb.svg) ![Plotly](assets/badges/plotly.svg) ![Streamlit](assets/badges/streamlit.svg)
 
 **Automation & infrastructure**
-![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](assets/badges/n8n.svg) ![Docker](assets/badges/docker.svg) ![GitHub Actions](assets/badges/github-actions.svg)
 
 ---
 
