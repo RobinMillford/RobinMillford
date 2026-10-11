@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Yamin Hossain — Applied AI, Backend Engineering, Data">
+  <title>Yamin Hossain — Applied AI · Backend Engineering · Data</title>
+  <desc>Profile header with a dark grid, a cyan-to-violet rule, and signal bars labelled retrieval, agents, backend and data.</desc>
+
+  <defs>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#16202c" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="#0b1017"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- measurement ticks along the baseline -->
+  <g stroke="#1f2b38" stroke-width="1">
+    <path d="M72 286h1056"/>
+    <path d="M72 286v8M264 286v4M456 286v4M648 286v8M840 286v4M1032 286v4M1128 286v8"/>
+  </g>
+
+  <!-- corner brackets -->
+  <g fill="none" stroke="#22d3ee" stroke-width="2" stroke-opacity="0.55">
+    <path d="M40 76V40h36"/>
+    <path d="M1160 40h-36v36"/>
+  </g>
+
+  <!-- prompt -->
+  <text x="72" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="19" fill="#4d6070">$ <tspan fill="#22d3ee">~/profile</tspan><tspan fill="#4d6070"> --brief</tspan></text>
+
+  <!-- name -->
+  <text x="70" y="176" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="70" font-weight="700" fill="#e8eef5" letter-spacing="-1.5">Yamin Hossain</text>
+
+  <!-- accent rule -->
+  <rect x="72" y="204" width="360" height="4" rx="2" fill="url(#rule)"/>
+
+  <!-- descriptor -->
+  <text x="72" y="252" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="23" fill="#7dd3fc">Applied AI <tspan fill="#3f5468">·</tspan> Backend Engineering <tspan fill="#3f5468">·</tspan> Data</text>
+
+  <!-- signal bars + domain labels -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+    <g fill="#3f5468">
+      <text x="760" y="146">retrieval</text>
+      <text x="760" y="180">agents</text>
+      <text x="760" y="214">backend</text>
+      <text x="760" y="248">data</text>
+    </g>
+    <g fill="url(#fade)">
+      <rect x="864" y="134" width="264" height="6" rx="3"/>
+      <rect x="864" y="168" width="196" height="6" rx="3"/>
+      <rect x="864" y="202" width="232" height="6" rx="3"/>
+      <rect x="864" y="236" width="150" height="6" rx="3"/>
+    </g>
+  </g>
+
+  <!-- active node -->
+  <circle cx="1128" cy="137" r="3.5" fill="#22d3ee"/>
+  <circle cx="1128" cy="171" r="2.5" fill="#22d3ee" fill-opacity="0.55"/>
+  <circle cx="1128" cy="205" r="2.5" fill="#22d3ee" fill-opacity="0.55"/>
+  <circle cx="1128" cy="239" r="2" fill="#22d3ee" fill-opacity="0.35"/>
+</svg>
