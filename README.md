@@ -1,19 +1,15 @@
 <div align="center">
-
 <img src="assets/header.svg" alt="Yamin Hossain — Applied AI, Backend Engineering, Data" width="100%">
-
 <br>
-
+<br>
 I build AI-enabled applications and data tools — retrieval systems, multi-agent pipelines, and the backend around them. My attention sits where the model meets the system: where context comes from, how a service degrades, and whether someone else can read it and run it.
-
 <br>
-
+<br>
 <a href="https://www.yaminhossain.fun/"><img src="assets/badges/portfolio.svg" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/yamin-hossain-38a3b3263"><img src="assets/badges/linkedin.svg" alt="LinkedIn profile"></a>
 <a href="https://www.kaggle.com/yaminh"><img src="assets/badges/kaggle.svg" alt="Kaggle profile"></a>
 <a href="https://huggingface.co/RobinMillford"><img src="assets/badges/huggingface.svg" alt="Hugging Face profile"></a>
 <a href="mailto:issan.yamin@gmail.com"><img src="assets/badges/email.svg" alt="Email Yamin Hossain"></a>
-
 </div>
 
 ---
@@ -107,6 +103,25 @@ A 42-node research agent that lives inside Telegram. A Switch fans each query in
 **[Source](https://github.com/RobinMillford/My_n8n_workflows)**
 
 <br clear="all">
+
+---
+
+## ◆ GitHub Activity
+
+<div align="center">
+<b>Public GitHub Activity</b>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=RobinMillford&amp;include_all_commits=true&amp;show=reviews,prs_merged&amp;hide_rank=true&amp;theme=transparent&amp;disable_animations=true&amp;hide=issues,contributed_to,prs" alt="Public GitHub Activity: total stars earned, all-time public commits, pull requests merged, and pull requests reviewed" width="460">
+<br>
+<br>
+<b>Recent Commits</b>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=RobinMillford&amp;hide_rank=true&amp;theme=transparent&amp;disable_animations=true&amp;hide=stars,issues,contributed_to,prs,prs_merged,reviews" alt="Total public commits in the last year" width="460">
+<br>
+<sub>Public GitHub activity; counts reflect GitHub's available statistics and may be cached.</sub>
+</div>
 
 ---
 
